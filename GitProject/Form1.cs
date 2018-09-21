@@ -14,6 +14,7 @@ namespace GitProject
     {
         public Form1()
         {
+            // A comment
             InitializeComponent();
         }
     }
