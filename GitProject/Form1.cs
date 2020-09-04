@@ -18,5 +18,7 @@ namespace GitProject
             // another comment
             InitializeComponent();
         }
+
+        private int Test() => 2;
     }
 }
